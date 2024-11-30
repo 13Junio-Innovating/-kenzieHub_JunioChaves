@@ -48,7 +48,7 @@ export const LoginPage = () => {
     <div className="backgroundFormContainer">
       <header>
         <div className={styles.header}>
-        <img src={Logo} alt="Logo Kenzie Hub" />
+        <img src={Logo} alt="Logo Junio Hub" />
         </div>
       </header>
       <form

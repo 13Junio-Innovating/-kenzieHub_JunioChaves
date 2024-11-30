@@ -41,7 +41,7 @@ export const RegisterPage = () => {
     <div className="backgroundFormContainer">
       <header>
       <div className={styles.logo}>
-        <img src={Logo} alt="Logo Kenzie Hub" />
+        <img src={Logo} alt="Logo Junio Hub" />
         <button className={styles.buttonVoltar} onClick={handleSignupClick}>Voltar</button>
       </div>
       </header>
